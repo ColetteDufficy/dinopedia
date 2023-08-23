@@ -32,22 +32,29 @@ If you would like to demo the (prototype!) application as it exists at the momen
 You'll need to fork a copy of the Dinopedia repository to your own account. Follow the [official instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo) from GitHub.
 
 1. Clone your new repo by typing `git clone https://github.com/ColetteDufficy/dinopedia`
-   
-2. You'll need to create and seed your database:
+
+2. Install all of the dependencies listed in `server/package.json`:
+```
+# Terminal
+cd server
+npm i
+```
+
+3. You'll need to create and seed your database:
 ```
 # Terminal
 cd server
 npm run seeds
 ```
 
-3. Install all of the dependencies listed in `client/package.json`:
+4. Install all of the dependencies listed in `client/package.json`:
 ```
 # Terminal
 cd client
 npm i
 ```
   
-4. Start the server:
+5. Start the server:
 ```
 # Terminal
 cd server
@@ -55,7 +62,7 @@ npm start
 ```
 
 
-4. Load the front-end:
+6. Load the front-end:
 ```
 # Terminal
 cd client
