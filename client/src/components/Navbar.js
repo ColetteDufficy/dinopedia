@@ -46,11 +46,11 @@ const Navbar = ({allDinosaurs, randomFacts, creators}) => {
           <div className="favourite-dino-link">
             <CustomLink to="/favourites">
               Favourites
-              <img
+              {/* <img
               className="tiny-dino"
               src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/322/sauropod_1f995.png"
               alt="tiny dino"
-              />
+              /> */}
             </CustomLink>
           </div>
           <CreatorsModal creators={creators} />
