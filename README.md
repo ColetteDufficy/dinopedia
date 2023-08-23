@@ -8,8 +8,6 @@ https://github.com/ColetteDufficy/dinopedia/assets/90625181/23dc0738-73f5-4ec7-b
 
 
 
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -81,18 +79,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 https://github.com/ColetteDufficy/dinopedia/assets/90625181/3614f6b3-541e-4ef8-aa39-b63015de6574
-
-
-
-
-
-
-## Group Project 
-![Homepage](screengrabs/homepage.png)
-
 [![Website][website-shield]][linkedin-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
+
+
 
 [website-shield]: https://img.shields.io/badge/Colette%20Dufficy-FFD300?style=for-the-badge&logo=aboutdotme&logoColor=242424
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-FFD300?style=for-the-badge&logo=linkedin&logoColor=242424
@@ -100,6 +91,7 @@ https://github.com/ColetteDufficy/dinopedia/assets/90625181/3614f6b3-541e-4ef8-a
 [github-shield]: https://img.shields.io/badge/GitHub-FFD300?style=for-the-badge&logo=github&logoColor=242424
 [github-url]: https://github.com/ColetteDufficy
 
+## Group Project 
 What you see in this repository is a group project by Team Dinomite, created as our final assignment for a software development course at CodeClan with the rest of cohort WD23. Individually, we are [Colette Dufficy](https://github.com/ColetteDufficy), [Sean Johnson](https://github.com/sjohns2020), [Heather Lamont](https://github.com/HeatherLamont), and [Xander Mackenzie](https://github.com/crabbit-git).
 
 
