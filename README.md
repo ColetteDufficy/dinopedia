@@ -38,6 +38,7 @@ Once the above is done, you can set up and run the application by doing the foll
 
 
 ## Group Project 
+![Homepage](screengrabs/homepage.png)
 
 [![Website][website-shield]][linkedin-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
