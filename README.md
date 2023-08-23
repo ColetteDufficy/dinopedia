@@ -3,7 +3,11 @@
 # Dinopedia
 
 
-https://github.com/ColetteDufficy/dinopedia/assets/90625181/8b7e5e85-f68b-4be4-af1a-2de119d03beb
+
+https://github.com/ColetteDufficy/dinopedia/assets/90625181/23dc0738-73f5-4ec7-b312-f62c36b2a6ba
+
+
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,6 +80,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
+https://github.com/ColetteDufficy/dinopedia/assets/90625181/3614f6b3-541e-4ef8-aa39-b63015de6574
+
+
+
 
 
 
@@ -97,5 +105,10 @@ What you see in this repository is a group project by Team Dinomite, created as 
 
 ## Licence
 There is currently no formal licence for this project, but this is not intended as a blanket grant of permission; the repository is public and you are permitted to clone a local copy for the demonstration purposes and/or to satisfy your own curiosity, but you would be doing so very much at your own risk as this code is provided without any warranty or guarantee of function whatsoever. It is also decidedly not for commercial use or adaptation for any other purpose at all, and is not in any way intended as a completed or production ready application; its purpose was entirely educational. In other words: it ain't our fault if you break anything after trying to use anything hosted in this repository.
-https://github.com/ColetteDufficy/dinopedia/assets/90625181/93fe4552-1380-4d93-8998-b3eb29c70683
+
+
+https://github.com/ColetteDufficy/dinopedia/assets/90625181/126fd863-72f9-4b10-914e-ea4b0e3d49b9
+
+
+
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p> 
