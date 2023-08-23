@@ -1,7 +1,11 @@
 <a name="readme-top"></a>
 
 # Dinopedia
-![Homepage](screengrabs/homepage.png)
+
+
+https://github.com/ColetteDufficy/dinopedia/assets/90625181/8b7e5e85-f68b-4be4-af1a-2de119d03beb
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
