@@ -23,18 +23,53 @@ A client is looking to improve their online offering of educational content by d
 ## Dependencies
 This project draws data from the [dinopix](https://github.com/judymou/dinopix) API, but only as a "run once" before the application is accessed for the first time; the API is only used as a setup step to source data which will be filtered and adapted to suit the needs of the project before loading it to a [MongoDB](https://www.mongodb.com/) database.
 
-## Installation
+## Getting Started
 If you would like to demo the (prototype!) application as it exists at the moment, you'll need a few things...
 - A contemporary web browser, such as Firefox or something WebKit/Blink based (Chromium, Chrome, Brave etc.)
-- A copy of this repository, which you can either just download with a web browser or by using git `git clone https://github.com/ColetteDufficy/dinopedia`
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 
-Once the above is done, you can set up and run the application by doing the following:
-1. Create and seed by navigating to the `server` directory of your local copy of this repository in your choice of terminal then running `npm run seeds`
-2. Install all of the dependencies listed in `client/package.json` by navigating to `client` then running `npm i`
-3. Start the server by navigating to `server` and running `npm start`
-4. Start the client by navigating to `client` and running `npm start` there as well, which should open a demo copy of the application on your local machine, which will be hosted on port 3000 by default `http://localhost:3000`
+You'll need to fork a copy of the Dinopedia repository to your own account. Follow the [official instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo) from GitHub.
+
+1. Clone your new repo by typing `git clone https://github.com/ColetteDufficy/dinopedia`
+   
+2. You'll need to create and seed your database:
+```
+# Terminal
+cd server
+npm run seeds
+```
+
+3. Install all of the dependencies listed in `client/package.json`:
+```
+# Terminal
+cd client
+npm i
+```
+  
+4. Start the server:
+```
+# Terminal
+cd server
+npm start
+```
+
+
+4. Load the front-end:
+```
+# Terminal
+cd client
+npm start
+```
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+(Press CTRL+C to quit)
+
+
+
+
+
 
 
 ## Group Project 
@@ -55,5 +90,5 @@ What you see in this repository is a group project by Team Dinomite, created as 
 
 ## Licence
 There is currently no formal licence for this project, but this is not intended as a blanket grant of permission; the repository is public and you are permitted to clone a local copy for the demonstration purposes and/or to satisfy your own curiosity, but you would be doing so very much at your own risk as this code is provided without any warranty or guarantee of function whatsoever. It is also decidedly not for commercial use or adaptation for any other purpose at all, and is not in any way intended as a completed or production ready application; its purpose was entirely educational. In other words: it ain't our fault if you break anything after trying to use anything hosted in this repository.
-
+https://github.com/ColetteDufficy/dinopedia/assets/90625181/93fe4552-1380-4d93-8998-b3eb29c70683
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p> 
