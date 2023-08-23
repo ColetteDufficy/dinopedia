@@ -79,6 +79,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 https://github.com/ColetteDufficy/dinopedia/assets/90625181/3614f6b3-541e-4ef8-aa39-b63015de6574
+
 [![Website][website-shield]][linkedin-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
