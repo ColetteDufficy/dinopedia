@@ -17,7 +17,7 @@ const RandomFact = ({randomFacts}) => {
   const randomFact2 = commentList[Math.floor(Math.random()*commentList.length)];
 
   const [isOpen, setIsOpen] = useState(true);
-  const [fact, setFact] = useState(randomFact);
+  const [fact, setFact] = useState(commentList[randomFact]);
 
   // const changeFact = () => {
   //   setFact(randomFact);

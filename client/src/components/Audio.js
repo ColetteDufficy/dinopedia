@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+import logo from "../dino-logo.png"
 const useAudio = url => {
   const [audio] = useState(new Audio(url));
   const [playing, setPlaying] = useState(false);
@@ -31,7 +31,7 @@ const Player = ({url}) => {
       <div>
         <img
           onClick={toggle} id="logo-pic"
-          src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/322/sauropod_1f995.png"
+          src={logo}
           alt="dino logo"
         /> 
         {playing}

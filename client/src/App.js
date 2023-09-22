@@ -88,6 +88,7 @@ function App() {
         allDinosaurs={allDinosaurs}
         creators={creators}
         randomFacts={randomFacts}
+        favDinosaurs={favDinosaurs}
       />
       <ScrollToTop/>
       <Routes>
